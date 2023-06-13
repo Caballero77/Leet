@@ -10,7 +10,7 @@ func inner(candidates []int, index int, current []int, target int) [][]int {
 		return [][]int{}
 	}
 
-	result := [][]int{}
+	result := make([][]int, 0)
 
 	for i := index; i < len(candidates); i++ {
 		val := candidates[i]
