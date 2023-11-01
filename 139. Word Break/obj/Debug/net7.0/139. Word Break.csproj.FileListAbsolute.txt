@@ -1,0 +1,15 @@
+/home/andrewmaslianko/Documents/Leet/139. Word Break/bin/Debug/net7.0/139. Word Break
+/home/andrewmaslianko/Documents/Leet/139. Word Break/bin/Debug/net7.0/139. Word Break.deps.json
+/home/andrewmaslianko/Documents/Leet/139. Word Break/bin/Debug/net7.0/139. Word Break.runtimeconfig.json
+/home/andrewmaslianko/Documents/Leet/139. Word Break/bin/Debug/net7.0/139. Word Break.dll
+/home/andrewmaslianko/Documents/Leet/139. Word Break/bin/Debug/net7.0/139. Word Break.pdb
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.csproj.AssemblyReference.cache
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.AssemblyInfoInputs.cache
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.AssemblyInfo.cs
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.csproj.CoreCompileInputs.cache
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.dll
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/refint/139. Word Break.dll
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.pdb
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/139. Word Break.genruntimeconfig.cache
+/home/andrewmaslianko/Documents/Leet/139. Word Break/obj/Debug/net7.0/ref/139. Word Break.dll
