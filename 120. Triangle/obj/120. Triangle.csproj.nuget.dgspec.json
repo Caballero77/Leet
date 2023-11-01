@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/andrewmaslianko/Documents/Leet/120. Triangle/120. Triangle.csproj": {}
+  },
+  "projects": {
+    "/home/andrewmaslianko/Documents/Leet/120. Triangle/120. Triangle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/andrewmaslianko/Documents/Leet/120. Triangle/120. Triangle.csproj",
+        "projectName": "120. Triangle",
+        "projectPath": "/home/andrewmaslianko/Documents/Leet/120. Triangle/120. Triangle.csproj",
+        "packagesPath": "/home/andrewmaslianko/.nuget/packages/",
+        "outputPath": "/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/andrewmaslianko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

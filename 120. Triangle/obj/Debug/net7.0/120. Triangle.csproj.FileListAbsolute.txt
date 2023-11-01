@@ -1,0 +1,15 @@
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.csproj.AssemblyReference.cache
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.AssemblyInfoInputs.cache
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.AssemblyInfo.cs
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.csproj.CoreCompileInputs.cache
+/home/andrewmaslianko/Documents/Leet/120. Triangle/bin/Debug/net7.0/120. Triangle
+/home/andrewmaslianko/Documents/Leet/120. Triangle/bin/Debug/net7.0/120. Triangle.deps.json
+/home/andrewmaslianko/Documents/Leet/120. Triangle/bin/Debug/net7.0/120. Triangle.runtimeconfig.json
+/home/andrewmaslianko/Documents/Leet/120. Triangle/bin/Debug/net7.0/120. Triangle.dll
+/home/andrewmaslianko/Documents/Leet/120. Triangle/bin/Debug/net7.0/120. Triangle.pdb
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.dll
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/refint/120. Triangle.dll
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.pdb
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/120. Triangle.genruntimeconfig.cache
+/home/andrewmaslianko/Documents/Leet/120. Triangle/obj/Debug/net7.0/ref/120. Triangle.dll
