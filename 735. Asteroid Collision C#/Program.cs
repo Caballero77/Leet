@@ -1,0 +1,1 @@
+﻿new Solution().AsteroidCollision(new []{ -1, -2, 3});
