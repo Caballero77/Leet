@@ -62,8 +62,8 @@ func arrayToList(array []int) *ListNode {
 }
 
 func main() {
-  list1 := arrayToList([]int{1, 2})
+	list1 := arrayToList([]int{1, 2})
 	list2 := arrayToList([]int{8, 8})
 	res := addTwoNumbers(list1, list2)
-  iterList(res, func(i int) { fmt.Printf("%d ", i) })
+	iterList(res, func(i int) { fmt.Printf("%d ", i) })
 }
